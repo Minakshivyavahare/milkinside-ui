@@ -153,7 +153,7 @@
     height: auto;
     display: flex;
     padding-block: 20px;
-    position: relative;
+   
     
 }
 .left6{
@@ -215,9 +215,7 @@
     margin-left: 20px;
 }
 .yellow-button button{
-    position: absolute;
-    right: 550px;
-    top: 40px;
+    transform: translate(-270px,20px);
     background-color: #FFB938;
     border: none;
     padding-inline: 15px;
